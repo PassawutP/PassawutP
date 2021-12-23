@@ -6,7 +6,6 @@
 
 
 📫 To reach out to me officially, you can email to me at passawut.prinyagul@gmail.com. In unofficial way, you can either direct message me in instagram at @ice_passawut and in facebook at Passawut Prinyagul.
-For disclaimer, I may not respond right away because I would consider myself as a very busy guy, and if there is any mistake that I made, I would like to apologise in advance.
 
 
 <!---
