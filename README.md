@@ -1,7 +1,7 @@
-- ✋✋✋  Hello, people of the internet! ✋✋✋
-- My name is Passawut Prinyagul, a fellow beginner programmer and a internet surfer 🏄.
+- ✋✋✋  Hello! ✋✋✋
+- My name is Passawut Prinyagul
 - Right now, I am studying as a junior in the bachlor degree of information and communication engineering.
-- 🧑‍💻 For programming, I’m interested in writing code such with Python mostly related to Data Science and AI (I use pytorch and pandas). I can code website using react/ionic and know the basic of web base coding.
+- 🧑‍💻 For programming, I’m interested in writing code such with Python mostly related to Data Science and AI. I can code website using react/ionic in both backend and frontend.
 - Currently, I am trying to find something interesting to do, so if you have anything interesting for me to join feel free to contact me!
 
 📫 To reach out to me officially, you can email to me at passawut.prinyagul@gmail.com.
