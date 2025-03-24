@@ -1,6 +1,6 @@
 - My name is Passawut Prinyagul
 - Right now, I am studying as a junior in the bachlor degree of information and communication engineering.
-- 🧑‍💻 For programming, I’m interested in writing code such with Python mostly related to Data Science and Web development.
+- 🧑‍💻 For programming, I’m interested in writing code related to Data Science and Web development.
 
 📫 To reach out to me officially, you can email to me at passawut.prinyagul@gmail.com.
 
